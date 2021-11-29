@@ -11,9 +11,13 @@ dataset: Sharif Emotional Speech Database https://github.com/mansourehk/ShEMO
 classes are:
 
 N -> Natural
+
 H -> Happy
+
 S -> Sad
+
 W -> Worry
+
 A -> Angry
 
 final accuracy: 67% 
