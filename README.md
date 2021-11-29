@@ -7,5 +7,13 @@ and Keras LSTM model for Classification
 
 refrence: A Large-Scale Validated Database for Persian Speech Emotion Detection https://arxiv.org/abs/1906.01155
 dataset: Sharif Emotional Speech Database https://github.com/mansourehk/ShEMO
- 
+
+classes are:
+
+N -> Natural
+H -> Happy
+S -> Sad
+W -> Worry
+A -> Angry
+
 final accuracy: 67% 
